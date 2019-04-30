@@ -589,7 +589,6 @@ export default {
       DELETE_WALLET: 'Delete this wallet',
       HEADER: 'My wallets',
       IMPORT_WALLET: 'Import Wallet',
-      LOADING_LEDGER: 'Loading Ledger wallets...',
       SHOW_WALLET: 'Show wallet',
       TOTAL_BALANCE: 'Total balance',
       ADDRESS: 'Address',
@@ -937,6 +936,10 @@ export default {
     AWAITING_VOTE_CONFIRMATION: 'Your {type} is awaiting confirmation',
     LOADING_VOTE: 'Loading vote details...',
     SEARCH_DELEGATE: 'Search delegate'
+  },
+
+  WALLET_GRID: {
+    LOADING_LEDGER: 'Loading Ledger wallets...'
   },
 
   WALLET_RENAME: {

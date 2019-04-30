@@ -583,7 +583,6 @@ export default {
       DELETE_WALLET: 'Elimina questo portafoglio',
       HEADER: 'I miei portafogli',
       IMPORT_WALLET: 'Importa portafoglio',
-      LOADING_LEDGER: 'Caricamento portafogli Ledger...',
       SHOW_WALLET: 'Mostra portafoglio',
       TOTAL_BALANCE: 'Saldo totale',
       ADDRESS: 'Indirizzo',
@@ -909,6 +908,10 @@ export default {
     AWAITING_VOTE_CONFIRMATION: 'Il tuo {type} è in attesa di conferma',
     LOADING_VOTE: 'Caricamento dei dettagli del voto ...',
     SEARCH_DELEGATE: 'Cerca delegato'
+  },
+
+  WALLET_GRID: {
+    LOADING_LEDGER: 'Caricamento portafogli Ledger...'
   },
 
   WALLET_RENAME: {
